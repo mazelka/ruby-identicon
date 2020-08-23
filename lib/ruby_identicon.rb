@@ -1,4 +1,6 @@
-require "ruby_identicon/version"
+# frozen_string_literal: true
+
+require 'ruby_identicon/version'
 
 module RubyIdenticon
   class Error < StandardError; end
