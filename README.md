@@ -20,6 +20,8 @@ Or install it yourself as:
 
     $ gem install ruby_identicon
 
+
+
 ## Usage
 
 TODO: Write usage instructions here ->>
